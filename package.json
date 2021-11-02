@@ -1,0 +1,44 @@
+{
+  "name": "electron-react-template",
+  "version": "1.0.0",
+  "description": "Simple Electron React Template",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "webpack --config webpack.common.js --watch"
+  },
+  "keywords": [ "electron", "react", "electron-react-template", "template", "boilerplate", "electron-react-boilerplate" ],
+  "author": {
+    "name": "Giffari Alfarizy",
+    "email": "giffarialfarizy@gmail.com",
+    "url": "https://www.linkedin.com/in/giffari-alfarizy/"
+  },
+  "homepage": "https://github.com/giffarialfarizy/electron-react-template#readme",
+  "bugs": {
+    "url": "https://github.com/giffarialfarizy/electron-react-template/issues"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.0",
+    "@babel/preset-react": "^7.16.0",
+    "babel-loader": "^8.2.3",
+    "css-loader": "^6.5.0",
+    "electron": "^15.3.0",
+    "electron-reload": "^2.0.0-alpha.1",
+    "sass": "^1.43.4",
+    "sass-loader": "^12.3.0",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.61.0",
+    "webpack-cli": "^4.9.1"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giffarialfarizy/electron-react-template.git"
+  }
+}
