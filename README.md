@@ -1,4 +1,4 @@
-# electron-react
+# electron-react-template
 
 Template for electron desktop application with [React](https://reactjs.org/)
 
@@ -11,3 +11,5 @@ Template for electron desktop application with [React](https://reactjs.org/)
 
 1. Official Electron Tutorial [Quick Start](https://www.electronjs.org/docs/latest/tutorial/quick-start)
 2. [Electron with React JS under 40 min!](https://youtu.be/VCl8li22mrA) by Eincode
+
+by [Giffari Alfarizy](https://www.linkedin.com/in/giffari-alfarizy/)
